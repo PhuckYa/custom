@@ -52,7 +52,7 @@
       scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 100, // 1-200
-      startupVolume: 27, // 0-100
+      startupVolume: 25, // 0-100
       startupEmoji: true, // true or false
       autowoot: true,
       autoskip: false,
