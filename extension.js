@@ -1,7 +1,7 @@
 (function () {
 
     // Change this to your GitHub username so you don't have to modify so many things.
-    var fork = "basicBot";
+    var fork = "PhuckYa";
 
     // Define our function responsible for extending the bot.
     function extend() {
@@ -51,8 +51,8 @@
       chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
       scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
-      startupCap: 1, // 1-200
-      startupVolume: 0, // 0-100
+      startupCap: 100, // 1-200
+      startupVolume: 50, // 0-100
       startupEmoji: false, // true or false
       autowoot: true,
       autoskip: false,
